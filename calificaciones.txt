@@ -1,0 +1,2 @@
+entregadas: 1,2,3,4
+pendientes: 5,6
